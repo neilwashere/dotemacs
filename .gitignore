@@ -18,6 +18,7 @@ semanticdb/
 edts/
 .recentf
 .recentf~
+request/
 projectile.cache
 projectile-bookmarks.eld
 tramp
